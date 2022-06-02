@@ -1,2 +1,2 @@
 # awesome-network-medicine-repo
-A collection of Sources and commentary
+A collection of interesting sources and commentary on them.
